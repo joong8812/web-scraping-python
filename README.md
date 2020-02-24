@@ -1,5 +1,5 @@
 # web-scraping-python
-Let's web scraping by Python.
+I'm learning web scraping in Python from <a href='https://academy.nomadcoders.co/p/python-for-absolute-beginners'>Nomadcoder Academy</a>.
 
 It needs some modules in Python for making it.
 <br>I used
